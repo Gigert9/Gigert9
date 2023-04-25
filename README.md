@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gigert9
-- 👀 I’m interested in learning game development.
-- 🌱 I’m currently learning how to script C# with Unity to develop small indie games.
+- 👀 I’m interested in many aspects of the tech world, including: InfoSec, Game Development, Networking, Peneteration Testing, and OSINT
+- 🌱 I’m currently learning cybersecurity fundamentals in preparation for the CompTIA Security+ Exam
 - 💞️ I’m looking to collaborate on absolutely anything!
 - 📫 ...
 
